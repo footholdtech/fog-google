@@ -1,3 +1,5 @@
+**NOTICE** This fork addresses this [open issue](https://github.com/fog/fog-google/issues/590) with `fog-google` that make newer versions of the gem incompatible with our `rma` app. If that issue is fixed, we can stop using this fork and get back on the official gem. We should also pull in upstream changes into this fork when possible.
+
 # Fog::Google
 
 [![Gem Version](https://badge.fury.io/rb/fog-google.svg)](http://badge.fury.io/rb/fog-google) [![Build Status](https://github.com/fog/fog-google/actions/workflows/ruby.yml/badge.svg)](https://github.com/fog/fog-google/actions/workflows/ruby.yml) [![codecov](https://codecov.io/gh/fog/fog-google/branch/master/graph/badge.svg)](https://codecov.io/gh/fog/fog-google) ![Dependabot Status](https://flat.badgen.net/github/dependabot/fog/fog-google) [![Doc coverage](https://inch-ci.org/github/fog/fog-google.svg?branch=master)](https://inch-ci.org/github/fog/fog-google)
